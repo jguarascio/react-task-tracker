@@ -3,8 +3,14 @@
     {
       "text": "test",
       "day": "test",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "fadfadfa",
+      "day": "adfadf",
       "reminder": true,
-      "id": 1
+      "id": 3
     }
   ]
 }
